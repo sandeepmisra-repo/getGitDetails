@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/getGitDetails/static/css/main.26cd2628.chunk.css",
+    "main.js": "/getGitDetails/static/js/main.32b21cc4.chunk.js",
+    "main.js.map": "/getGitDetails/static/js/main.32b21cc4.chunk.js.map",
+    "runtime-main.js": "/getGitDetails/static/js/runtime-main.d920cdc9.js",
+    "runtime-main.js.map": "/getGitDetails/static/js/runtime-main.d920cdc9.js.map",
+    "static/js/2.d2347a26.chunk.js": "/getGitDetails/static/js/2.d2347a26.chunk.js",
+    "static/js/2.d2347a26.chunk.js.map": "/getGitDetails/static/js/2.d2347a26.chunk.js.map",
+    "index.html": "/getGitDetails/index.html",
+    "precache-manifest.76b2af30a36c1e44e8ccdbc16883da57.js": "/getGitDetails/precache-manifest.76b2af30a36c1e44e8ccdbc16883da57.js",
+    "service-worker.js": "/getGitDetails/service-worker.js",
+    "static/css/main.26cd2628.chunk.css.map": "/getGitDetails/static/css/main.26cd2628.chunk.css.map",
+    "static/js/2.d2347a26.chunk.js.LICENSE.txt": "/getGitDetails/static/js/2.d2347a26.chunk.js.LICENSE.txt",
+    "static/media/octocat.svg": "/getGitDetails/static/media/octocat.d617763f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d920cdc9.js",
+    "static/js/2.d2347a26.chunk.js",
+    "static/css/main.26cd2628.chunk.css",
+    "static/js/main.32b21cc4.chunk.js"
+  ]
+}
